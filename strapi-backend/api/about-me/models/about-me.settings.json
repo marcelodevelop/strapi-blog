@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_mes",
+  "info": {
+    "name": "About me"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Body": {
+      "type": "string"
+    }
+  }
+}
